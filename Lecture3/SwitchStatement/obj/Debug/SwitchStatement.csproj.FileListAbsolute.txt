@@ -1,0 +1,11 @@
+D:\131735\ProgrammingIntro\Lecture3\SwitchStatement\obj\Debug\SwitchStatement.csproj.AssemblyReference.cache
+D:\131735\ProgrammingIntro\Lecture3\SwitchStatement\obj\Debug\SwitchStatement.Form1.resources
+D:\131735\ProgrammingIntro\Lecture3\SwitchStatement\obj\Debug\SwitchStatement.Properties.Resources.resources
+D:\131735\ProgrammingIntro\Lecture3\SwitchStatement\obj\Debug\SwitchStatement.csproj.GenerateResource.cache
+D:\131735\ProgrammingIntro\Lecture3\SwitchStatement\obj\Debug\SwitchStatement.csproj.CoreCompileInputs.cache
+D:\131735\ProgrammingIntro\Lecture3\SwitchStatement\bin\Debug\SwitchStatement.exe.config
+D:\131735\ProgrammingIntro\Lecture3\SwitchStatement\bin\Debug\SwitchStatement.exe
+D:\131735\ProgrammingIntro\Lecture3\SwitchStatement\bin\Debug\SwitchStatement.pdb
+D:\131735\ProgrammingIntro\Lecture3\SwitchStatement\obj\Debug\SwitchStatement.exe
+D:\131735\ProgrammingIntro\Lecture3\SwitchStatement\obj\Debug\SwitchStatement.pdb
+D:\131735\ProgrammingIntro\Lecture3\SwitchStatement\obj\Debug\SwitchStatement.exe.config

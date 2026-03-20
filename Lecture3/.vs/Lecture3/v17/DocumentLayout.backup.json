@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\131735\\ProgrammingIntro\\Lecture3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0356E9D5-CACD-452D-97D7-EB53C51AA265}|Arrays\\Arrays.csproj|d:\\131735\\programmingintro\\lecture3\\arrays\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0356E9D5-CACD-452D-97D7-EB53C51AA265}|Arrays\\Arrays.csproj|solutionrelative:arrays\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0356E9D5-CACD-452D-97D7-EB53C51AA265}|Arrays\\Arrays.csproj|d:\\131735\\programmingintro\\lecture3\\arrays\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0356E9D5-CACD-452D-97D7-EB53C51AA265}|Arrays\\Arrays.csproj|solutionrelative:arrays\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\131735\\ProgrammingIntro\\Lecture3\\Arrays\\Form1.cs",
+              "RelativeDocumentMoniker": "Arrays\\Form1.cs",
+              "ToolTip": "D:\\131735\\ProgrammingIntro\\Lecture3\\Arrays\\Form1.cs*",
+              "RelativeToolTip": "Arrays\\Form1.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwDYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T15:56:43.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\131735\\ProgrammingIntro\\Lecture3\\Arrays\\Form1.cs",
+              "RelativeDocumentMoniker": "Arrays\\Form1.cs",
+              "ToolTip": "D:\\131735\\ProgrammingIntro\\Lecture3\\Arrays\\Form1.cs [Design]*",
+              "RelativeToolTip": "Arrays\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T15:56:08.764Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

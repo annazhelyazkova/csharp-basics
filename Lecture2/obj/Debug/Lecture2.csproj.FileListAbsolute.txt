@@ -1,0 +1,14 @@
+D:\131735\ProgrammingIntro\Lecture2\bin\Debug\Lecture2.exe.config
+D:\131735\ProgrammingIntro\Lecture2\bin\Debug\Lecture2.exe
+D:\131735\ProgrammingIntro\Lecture2\bin\Debug\Lecture2.pdb
+D:\131735\ProgrammingIntro\Lecture2\obj\Debug\Lecture2.csproj.AssemblyReference.cache
+D:\131735\ProgrammingIntro\Lecture2\obj\Debug\Lecture2.Properties.Resources.resources
+D:\131735\ProgrammingIntro\Lecture2\obj\Debug\Lecture2.csproj.GenerateResource.cache
+D:\131735\ProgrammingIntro\Lecture2\obj\Debug\Lecture2.csproj.CoreCompileInputs.cache
+D:\131735\ProgrammingIntro\Lecture2\obj\Debug\Lecture2.exe
+D:\131735\ProgrammingIntro\Lecture2\obj\Debug\Lecture2.pdb
+D:\131735\ProgrammingIntro\Lecture2\obj\Debug\Lecture2.exe.config
+D:\131735\ProgrammingIntro\Lecture2\obj\Debug\Lecture2.Task1.resources
+D:\131735\ProgrammingIntro\Lecture2\obj\Debug\Lecture2.WhileStatement.resources
+D:\131735\ProgrammingIntro\Lecture2\obj\Debug\Lecture2.DoWhileStatement.resources
+D:\131735\ProgrammingIntro\Lecture2\obj\Debug\Lecture2.ForStatement.resources

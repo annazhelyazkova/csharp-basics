@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Introduction to Programming - UE Varna\Task3Seminar2\bin\Debug\Task3Seminar2.exe.config
+C:\Users\user\source\repos\Introduction to Programming - UE Varna\Task3Seminar2\bin\Debug\Task3Seminar2.exe
+C:\Users\user\source\repos\Introduction to Programming - UE Varna\Task3Seminar2\bin\Debug\Task3Seminar2.pdb
+C:\Users\user\source\repos\Introduction to Programming - UE Varna\Task3Seminar2\obj\Debug\Task3Seminar2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Introduction to Programming - UE Varna\Task3Seminar2\obj\Debug\Task3Seminar2.Form1.resources
+C:\Users\user\source\repos\Introduction to Programming - UE Varna\Task3Seminar2\obj\Debug\Task3Seminar2.Properties.Resources.resources
+C:\Users\user\source\repos\Introduction to Programming - UE Varna\Task3Seminar2\obj\Debug\Task3Seminar2.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Introduction to Programming - UE Varna\Task3Seminar2\obj\Debug\Task3Seminar2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Introduction to Programming - UE Varna\Task3Seminar2\obj\Debug\Task3Seminar2.exe
+C:\Users\user\source\repos\Introduction to Programming - UE Varna\Task3Seminar2\obj\Debug\Task3Seminar2.pdb
