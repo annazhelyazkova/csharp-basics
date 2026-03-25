@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\csharp-basics\Task5\bin\Debug\Task5.exe.config
+C:\Users\user\source\repos\csharp-basics\Task5\bin\Debug\Task5.exe
+C:\Users\user\source\repos\csharp-basics\Task5\bin\Debug\Task5.pdb
+C:\Users\user\source\repos\csharp-basics\Task5\obj\Debug\Task5.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\csharp-basics\Task5\obj\Debug\Task5.Form1.resources
+C:\Users\user\source\repos\csharp-basics\Task5\obj\Debug\Task5.Properties.Resources.resources
+C:\Users\user\source\repos\csharp-basics\Task5\obj\Debug\Task5.csproj.GenerateResource.cache
+C:\Users\user\source\repos\csharp-basics\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\csharp-basics\Task5\obj\Debug\Task5.exe
+C:\Users\user\source\repos\csharp-basics\Task5\obj\Debug\Task5.pdb
