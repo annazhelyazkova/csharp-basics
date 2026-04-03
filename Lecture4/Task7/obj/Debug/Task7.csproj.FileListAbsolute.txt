@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\csharp-basics\Lecture 4\Task7\bin\Debug\Task7.exe.config
+C:\Users\user\source\repos\csharp-basics\Lecture 4\Task7\bin\Debug\Task7.exe
+C:\Users\user\source\repos\csharp-basics\Lecture 4\Task7\bin\Debug\Task7.pdb
+C:\Users\user\source\repos\csharp-basics\Lecture 4\Task7\obj\Debug\Task7.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\csharp-basics\Lecture 4\Task7\obj\Debug\Task7.Form1.resources
+C:\Users\user\source\repos\csharp-basics\Lecture 4\Task7\obj\Debug\Task7.Properties.Resources.resources
+C:\Users\user\source\repos\csharp-basics\Lecture 4\Task7\obj\Debug\Task7.csproj.GenerateResource.cache
+C:\Users\user\source\repos\csharp-basics\Lecture 4\Task7\obj\Debug\Task7.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\csharp-basics\Lecture 4\Task7\obj\Debug\Task7.exe
+C:\Users\user\source\repos\csharp-basics\Lecture 4\Task7\obj\Debug\Task7.pdb
