@@ -1,0 +1,11 @@
+D:\Desktop\Task4\Task4\bin\Debug\Task4.exe.config
+D:\Desktop\Task4\Task4\bin\Debug\Task4.exe
+D:\Desktop\Task4\Task4\bin\Debug\Task4.pdb
+D:\Desktop\Task4\Task4\obj\Debug\Task4.csproj.AssemblyReference.cache
+D:\Desktop\Task4\Task4\obj\Debug\Task4.Form1.resources
+D:\Desktop\Task4\Task4\obj\Debug\Task4.Properties.Resources.resources
+D:\Desktop\Task4\Task4\obj\Debug\Task4.csproj.GenerateResource.cache
+D:\Desktop\Task4\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+D:\Desktop\Task4\Task4\obj\Debug\Task4.exe
+D:\Desktop\Task4\Task4\obj\Debug\Task4.pdb
+D:\Desktop\Task4\Task4\obj\Debug\Task4.exe.config
